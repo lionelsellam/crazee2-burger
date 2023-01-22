@@ -1,13 +1,10 @@
-import './App.css';
+import "./App.css";
 
 const App = () => {
-
   // State
 
   // Behavior
-  const handleSubmit = () => {
-
-  }
+  const handleSubmit = () => {};
 
   // Render
 
@@ -24,6 +21,6 @@ const App = () => {
       </form>
     </div>
   );
-}
+};
 
 export default App;
